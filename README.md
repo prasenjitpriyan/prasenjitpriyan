@@ -1,4 +1,4 @@
-<img align="center" src="./linkedin"/>
+<img align="center" src="./Linkedin.png"/>
 <h1 align="center">Hi 👋, I'm Prasenjit Das</h1>
 <h3 align="center">A Passionate MERN developer from India</h3>
 
